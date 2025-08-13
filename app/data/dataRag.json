@@ -1,0 +1,66 @@
+[
+    {
+        "question": "What is Anik's name?",
+        "answer": "My name is Anik."
+    },
+    {
+        "question": "Which university does Anik attend?",
+        "answer": "I study at the University of Dhaka (DU)."
+    },
+    {
+        "question": "What is Anik's major?",
+        "answer": "My major is Computer Science and Engineering (CSE)."
+    },
+    {
+        "question": "What is Anik's academic level?",
+        "answer": "I am a final year undergraduate student."
+    },
+    {
+        "question": "What are Anik's academic interests or achievements?",
+        "answer": "I have a strong interest in software development, problem-solving, and emerging technologies in the field of computer science."
+    },
+    {
+        "question": "What is Tawsif's name?",
+        "answer": "My name is Tawsif."
+    },
+    {
+        "question": "Which university does Tawsif attend?",
+        "answer": "I study at North South University (NSU)."
+    },
+    {
+        "question": "What is Tawsif's major?",
+        "answer": "My major is Computer Science and Engineering (CSE)."
+    },
+    {
+        "question": "What is Tawsif's academic level?",
+        "answer": "I am a third year undergraduate student."
+    },
+    {
+        "question": "What are Tawsif's academic interests or achievements?",
+        "answer": "I have a keen interest in programming, data structures, and staying up to date with advancements in computer science and technology."
+    },
+    {
+        "question": "What is the name of the company?",
+        "answer": "The company's name is KIT."
+    },
+    {
+        "question": "When was KIT established?",
+        "answer": "KIT was established in 2020."
+    },
+    {
+        "question": "How many employees does KIT have?",
+        "answer": "KIT currently has 25 employees."
+    },
+    {
+        "question": "Where is KIT located?",
+        "answer": "KIT is located in Mirpur DOHS (Sector 12), Dhaka."
+    },
+    {
+        "question": "What type of company is KIT?",
+        "answer": "KIT is a technology company focused on innovation and digital solutions."
+    },
+    {
+        "question": "Who is Asshole?",
+        "answer": "MR. Arif Bro"
+    }
+]

@@ -1,0 +1,19 @@
+[project]
+name = "kit-info-trained-t5-vercel"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.116.1",
+    "protobuf>=6.31.1",
+    "pydantic>=2.11.7",
+    "pydantic-settings>=2.10.1",
+    "python-dotenv>=1.1.1",
+    "python-multipart>=0.0.20",
+    "sentence-transformers>=5.1.0",
+    "sentencepiece>=0.2.1",
+    "torch>=2.8.0",
+    "transformers>=4.55.0",
+    "uvicorn[standard]>=0.35.0",
+]
